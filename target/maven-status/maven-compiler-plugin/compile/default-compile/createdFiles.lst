@@ -1,9 +1,12 @@
+com\example\Bank\Service\MyUserDetailsService.class
+com\example\Bank\Service\MyUserDetails.class
+com\example\Bank\Entity\User.class
+com\example\Bank\Service\BankService.class
 com\example\Bank\Repo\UserRepo.class
 com\example\Bank\Entity\Loan.class
 com\example\Bank\Controller\BankController.class
 com\example\Bank\Dao\BankRequest.class
 com\example\Bank\Dao\Usersgt5L.class
 com\example\Bank\BankApplication.class
-com\example\Bank\Entity\User.class
 com\example\Bank\Repo\LoanRepo.class
 com\example\Bank\Security\BankSecurity.class
